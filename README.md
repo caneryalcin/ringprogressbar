@@ -7,6 +7,8 @@ Aşağıdaki eklentileri ekleyelim...
 
 ## build.gradle(Project:ringprogressbar)
 
+![](https://im.ezgif.com/tmp/ezgif-1-d3dbec45bd.gif)
+
 allprojects {
 
     repositories {
@@ -24,6 +26,7 @@ allprojects {
 
     implementation 'com.github.HotBitmapGG:RingProgressBar:V1.2.2'
     
+![](https://im.ezgif.com/tmp/ezgif-1-07a07220ba.gif)
     
 
 
